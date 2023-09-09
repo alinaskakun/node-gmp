@@ -1,0 +1,22 @@
+{
+  "name": "gmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinaskakun/node-gmp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinaskakun/node-gmp/issues"
+  },
+  "homepage": "https://github.com/alinaskakun/node-gmp#readme"
+}
